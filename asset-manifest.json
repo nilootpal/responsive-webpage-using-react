@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/responsive-webpage-using-react/static/css/main.b7b57eee.css",
+    "main.js": "/responsive-webpage-using-react/static/js/main.f9160c57.js",
+    "index.html": "/responsive-webpage-using-react/index.html",
+    "main.b7b57eee.css.map": "/responsive-webpage-using-react/static/css/main.b7b57eee.css.map",
+    "main.f9160c57.js.map": "/responsive-webpage-using-react/static/js/main.f9160c57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7b57eee.css",
+    "static/js/main.f9160c57.js"
+  ]
+}
